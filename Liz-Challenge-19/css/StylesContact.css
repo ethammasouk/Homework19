@@ -93,6 +93,12 @@ html {
     margin: 0;
     list-style-type: none;
   }
+  article a {
+    color: #000000;
+  }
+  article a:hover {
+    color: #d98555;
+  }
   img {
     max-width: 100%;
     border-radius: 10px;
